@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    background-color: rgb(172, 158, 138);
+    margin: 0;
+}
+.img{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.img:hover{
+    border: 2px black solid;
+    
+}
+.images{
+    display: flex;
+    justify-content: center;
+}
+.scoreboard{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#userscore,#compscore{
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+    
+#winning-result{
+    background-color: rgb(52, 52, 52);
+    display: inline;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+.result{
+    text-align: center;
+}
+.score{
+    margin:5px;
+}
+.reset{
+    background-color: rgb(198, 153, 90);
+    border: 1px black solid;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.button{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
