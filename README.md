@@ -17,5 +17,12 @@ This is a simple implementation of the classic game "Rock Paper Scissors" built 
 ## Installation
 No installation is required. Simply clone this repository and open `RockPaperScissorsGame.html` in your browser to start playing.
 
-```bash
-git clone https://github.com/krishnatejaswi2005/Rock-Paper-Scissors.git
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript ES6
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
